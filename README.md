@@ -28,8 +28,7 @@ Projeto - 2° semestre de 2025
 
 | Aluno            | Função           | GitHub                                                         | LinkedIn                                              |
 | ---------------- | ---------------- | -------------------------------------------------------------- | ----------------------------------------------------- |
-|__Caio Costa Santos__   | *Desenvolvedor*  | [![](https://bit.ly/3f9Xo0P)](https://github.com/Caio-eng-gif)| [![](https://bit.ly/2P1ZogM)](https://www.linkedin.com/in/caio-costa-santos-7a7277195/) |
- 
+|__|__Pedro Leite__| *Developer Team* | [![](https://bit.ly/3f9Xo0P)](https://github.com/pedroleite44) | [![](https://bit.ly/2P1ZogM)]() 
 
 
 ## 👨‍🏫 Disciplinas Integradas:
