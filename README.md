@@ -28,7 +28,7 @@ Projeto - 2° semestre de 2025
 
 | Aluno            | Função           | GitHub                                                         | LinkedIn                                              |
 | ---------------- | ---------------- | -------------------------------------------------------------- | ----------------------------------------------------- |
-|__|__Pedro Leite__| *Developer Team* | [![](https://bit.ly/3f9Xo0P)](https://github.com/pedroleite44) | [![](https://bit.ly/2P1ZogM)]() 
+|__|__Pedro Leite__| *Developer Team* | [![](https://bit.ly/3f9Xo0P)](https://github.com/pedroleite44) | [![](https://bit.ly/2P1ZogM)](https://www.linkedin.com/in/pedro-henrique-b028a11a0/) 
 
 
 ## 👨‍🏫 Disciplinas Integradas:
